@@ -21,3 +21,6 @@ Technical Skills
 - VBA
 - Microsoft Excel
 - R
+- Salesforce
+- JIRA
+- Java
