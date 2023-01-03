@@ -5,7 +5,7 @@
 - 👀 I’m looking to collaborate on projects with similar minded people
 - 📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/Carlos-H-Cervantes/
 
-Core Competencies:!
+Core Competencies:
 - Process Improvement
 - Project Management
 - Data Analysis
@@ -15,7 +15,7 @@ Core Competencies:!
 - Lean Six Sigma
 - Creative Thinking
 
-Technical Skills
+Technical Skills:
 - Python
 - Tableau
 - VBA
